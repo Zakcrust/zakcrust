@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning on Game Programming On Godot, OOP, and other stuffs!
-[![Zakcrust's github stats](https://github-readme-stats.vercel.app/api?username=zakcrust)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Zakcrust's github stats](https://github-readme-stats.vercel.app/api?username=zakcrust&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=zakcrust)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Zakcrust/zakcrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
